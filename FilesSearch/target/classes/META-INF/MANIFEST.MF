@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: lib/poi-ooxml-5.2.0.jar lib/poi-ooxml-lite-5.2.0.jar lib/xml
+ beans-5.0.3.jar lib/commons-compress-1.21.jar lib/commons-io-2.11.0.jar
+  lib/curvesapi-1.06.jar lib/log4j-api-2.17.1.jar lib/commons-collection
+ s4-4.4.jar lib/poi-5.2.0.jar lib/commons-codec-1.15.jar lib/commons-mat
+ h3-3.6.1.jar lib/SparseBitSet-1.2.jar lib/log4j-core-2.16.0.jar lib/pdf
+ box-2.0.24.jar lib/fontbox-2.0.24.jar lib/commons-logging-1.2.jar
+Main-Class: theMainClass
+Created-By: Maven Integration for Eclipse
+
